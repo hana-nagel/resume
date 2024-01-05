@@ -5,6 +5,7 @@
     <link>https://hana-nagel.github.io/resume/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hana-nagel.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://hana-nagel.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
